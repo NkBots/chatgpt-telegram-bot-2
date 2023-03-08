@@ -1,10 +1,11 @@
 { 
     "openai_api_key": "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",
     "telegram_bot_token": "6097657651:AAFTRau5vTfB9ss5QN3V4fhq8K0YmN9HD1Q",
-    "allow_all_users": true,
+    "allow_all_users": false,
     "allowed_users": [ 
-        "<USER_ID_1>", 
-        "<USER_ID_2>"
+        "5000712386", 
+        "5085891753",
+        "6193803846",
     ], 
     "enable_voice": true,   
     "wait_time": 600,   
