@@ -5,14 +5,15 @@
     "allowed_users": [ 
         "5000712386", 
         "5085891753",
-        "6193803846",
+        "6193803846"
     ], 
     "enable_voice": true,   
     "wait_time": 600,   
     "enable_dalle": true,   
     "super_users": [ 
         "5085891753",    
-        "<SUPER_USER_ID_2>"
+        "5000712386",
+        "6193803846"
     ], 
     "image_generation_limit_per_day": 10,     
     "enable_inline": false
