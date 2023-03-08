@@ -10,9 +10,9 @@
     "wait_time": 600,   
     "enable_dalle": true,   
     "super_users": [ 
-        "<SUPER_USER_ID_1>",    
+        "5085891753",    
         "<SUPER_USER_ID_2>"
     ], 
-    "image_generation_limit_per_day": 5,     
+    "image_generation_limit_per_day": 10,     
     "enable_inline": false
 }
