@@ -1,1 +1,3 @@
-worker: python3 -m src
+
+
+worker: python3 src/telegram_message_parser.py
